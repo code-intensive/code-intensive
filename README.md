@@ -33,4 +33,4 @@
 <br> <b>📊 Cloud monitoring</b>: Amazon cloudwatch, Dynatrace, Grafana, Prometheus<br>
 </p>
 
-[![Anurag's GitHub stats]] (https://github-readme-stats.vercel.app/api?username=code-intensive)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=code-intensive&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
